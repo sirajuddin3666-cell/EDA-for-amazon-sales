@@ -1,6 +1,6 @@
-# 📊 Amazon Sales Exploratory Data Analysis (EDA)
+#  Amazon Sales Exploratory Data Analysis (EDA)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on an Amazon product sales dataset. The purpose of this analysis is to better understand the dataset structure, detect patterns, explore relationships between variables, and extract insights that can support business decisions such as:
 
@@ -13,7 +13,7 @@ The dataset contains product-related information such as pricing, discount detai
 
 ---
 
-## 🗂 Dataset Description
+##  Dataset Description
 
 The dataset includes the following types of features:
 
@@ -27,7 +27,7 @@ The dataset includes the following types of features:
 
 ---
 
-## 🛠 Libraries Used
+##  Libraries Used
 
 The notebook uses the following Python libraries:
 
@@ -38,7 +38,7 @@ The notebook uses the following Python libraries:
 
 ---
 
-## 🔍 Key Analysis Performed
+##  Key Analysis Performed
 
 The notebook covers:
 
@@ -53,7 +53,7 @@ The notebook covers:
 
 ---
 
-## 📈 Visualizations Included
+##  Visualizations Included
 
 Some visual insights include:
 
@@ -65,7 +65,7 @@ Some visual insights include:
 
 ---
 
-## 🚀 How to Run the Notebook
+##  How to Run the Notebook
 
 ### 1️⃣ Clone the Repository
 
@@ -91,7 +91,7 @@ Then open:
 
 ---
 
-## 📌 Results & Insights
+##  Results & Insights
 
 This analysis helps identify:
 
@@ -102,7 +102,7 @@ This analysis helps identify:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 📦 Amazon-EDA
@@ -113,7 +113,7 @@ This analysis helps identify:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This notebook provides a complete exploratory analysis of Amazon sales data and offers valuable business insights using statistical summaries and visualizations.
 
